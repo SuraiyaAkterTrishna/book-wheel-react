@@ -3,16 +3,42 @@ import person from "../../images/logo .png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 
+const style = {
+  backgroundColor: 'rgb(242, 244, 250)',
+}
+
 const Profile = () => {
   return (
-    <div className="flex items-center">
-      <img src={person} width="150px" alt="" />
-      <div>
-        <h4 className="text-xl font-bold">Md. Kamrujjaman</h4>
-        <p style={{color: 'gray'}}>
-          <FontAwesomeIcon className="pe-2" icon={faLocationDot} />
-          Khulna, Bangladesh
-        </p>
+    <div>
+      <div className="flex items-center py-6">
+        <img
+          className="border-0 rounded-full"
+          src={person}
+          width="100px"
+          alt=""
+        />
+        <div>
+          <h4 className="text-xl font-bold">Md. Kamrujjaman</h4>
+          <p style={{ color: "gray" }}>
+            <FontAwesomeIcon className="pe-2" icon={faLocationDot} />
+            Khulna, Bangladesh
+          </p>
+        </div>
+      </div>
+      {/* stat starts here */}
+      <div style={style} className="grid grid-cols-3 gap-2 ms-4 me-6 pe-6 border-0 rounded-xl">
+        <div className="stat place-items-center">
+          <div className="stat-value">75<span className="text-xl text-gray-400">kg</span></div>
+          <div className="stat-desc text-xl">Weight</div>
+        </div>
+        <div className="stat place-items-center">
+          <div className="stat-value">6.2</div>
+          <div className="stat-desc text-xl">Height</div>
+        </div>
+        <div className="stat place-items-center">
+          <div className="stat-value">25<span className="text-xl text-gray-400">yrs</span></div>
+          <div className="stat-desc text-xl">Age</div>
+        </div>
       </div>
     </div>
   );
