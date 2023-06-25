@@ -3,7 +3,7 @@ import Breaks from "../Breaks/Breaks";
 import Details from "../Details/Details";
 import Profile from "../Profile/Profile";
 
-const Cart = () => {
+const Activity = () => {
   return (
     <div>
       <Profile></Profile>
@@ -16,4 +16,4 @@ const Cart = () => {
   );
 };
 
-export default Cart;
+export default Activity;

@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Cart from './components/Cart/Cart';
 import Navbar from './components/Navbar/Navbar';
 import Books from './components/Books/Books';
+import Activity from './components/Activity/Activity';
 
 const style = {
   backgroundColor: 'rgb(242, 244, 250)',
@@ -15,7 +15,7 @@ function App() {
         <Books></Books>
       </div>
       <div>
-        <Cart></Cart>
+        <Activity></Activity>
       </div>
     </div>
   );
