@@ -3,7 +3,7 @@ import React from 'react';
 const Books = () => {
     return (
         <div>
-            <h1>All the books here...</h1>
+            <h1 className='text-xl py-4 font-semibold'>Select Today's Reading...</h1>
         </div>
     );
 };
