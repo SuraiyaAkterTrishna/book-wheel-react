@@ -10,7 +10,7 @@ const style = {
 function App() {
   return (
     <div className='grid lg:grid-cols-4 gap-4'>
-      <div style={style} className='lg:col-span-3 lg:py-24 lg:px-32'>
+      <div style={style} className='lg:col-span-3 lg:py-20 lg:px-32'>
         <Navbar></Navbar>
         <Books></Books>
       </div>
