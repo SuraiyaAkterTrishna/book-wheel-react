@@ -1,50 +1,56 @@
 [
     {
       "id": "1",
-      "image": "../src/images/first.jpg",
+      "image": "https://i.ibb.co/7vs3Dyy/first.jpg",
       "age": "20-25",
       "time": 30,
       "name": "The Universe in the Rearview Mirror",
-      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs boson to antimatter to the most massive group of galaxies—is shaped by hidden symmetries that have driven all our recent discoveries about the universe and all the ones to come."
+      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs"
     },
     {
       "id": "2",
-      "image": "../src/images/second.jpg",
+      "image": "https://i.ibb.co/j58GS7P/second.jpg",
       "age": "20-25",
       "time": 10,
       "name": "Neuromancer",
-      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs boson to antimatter to the most massive group of galaxies—is shaped by hidden symmetries that have driven all our recent discoveries about the universe and all the ones to come."
+      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs"
     },
     {
       "id": "3",
-      "image": "../src/images/third.jpg",
+      "image": "https://i.ibb.co/tbMg0NP/third.jpg",
       "age": "20-25",
       "time": 20,
       "name": "Stranger in a Strange Land",
-      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs boson to antimatter to the most massive group of galaxies—is shaped by hidden symmetries that have driven all our recent discoveries about the universe and all the ones to come."
+      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs"
     },
     {
       "id": "4",
-      "image": "../src/images/four.jpg",
+      "image": "https://i.ibb.co/dL3h1nK/four.jpg",
       "age": "20-25",
       "time": 40,
       "name": "The Left Hand of Darkness",
-      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs boson to antimatter to the most massive group of galaxies—is shaped by hidden symmetries that have driven all our recent discoveries about the universe and all the ones to come."
+      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs"
     },
     {
       "id": "5",
-      "image": "../src/images/five.jpg",
+      "image": "https://i.ibb.co/9qzcB3F/five.jpg",
       "age": "20-25",
       "time": 20,
       "name": "The Last Promise",
-      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs boson to antimatter to the most massive group of galaxies—is shaped by hidden symmetries that have driven all our recent discoveries about the universe and all the ones to come."
+      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs"
     },
     {
       "id": "6",
-      "image": "../src/images/six.jpg",
+      "image": "https://i.ibb.co/569Z7zz/six.jpg",
       "age": "20-25",
       "time": 50,
       "name": "We Have Always Lived in the Castle ",
-      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs boson to antimatter to the most massive group of galaxies—is shaped by hidden symmetries that have driven all our recent discoveries about the universe and all the ones to come."
+      "detail": "A physicist speeds across space, time and everything in between showing that our elegant universe—from the Higgs"
     }
   ]
+
+  
+
+
+
+
