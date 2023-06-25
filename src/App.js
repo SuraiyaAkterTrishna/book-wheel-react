@@ -9,8 +9,8 @@ const style = {
 }
 function App() {
   return (
-    <div className='grid grid-cols-4 gap-4'>
-      <div style={style} className='col-span-3 py-24 px-32'>
+    <div className='grid lg:grid-cols-4 gap-4'>
+      <div style={style} className='lg:col-span-3 lg:py-24 lg:px-32'>
         <Navbar></Navbar>
         <Books></Books>
       </div>
