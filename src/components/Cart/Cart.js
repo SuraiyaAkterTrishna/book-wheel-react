@@ -1,14 +1,19 @@
-import React from 'react';
-import Breaks from '../Breaks/Breaks';
-import Profile from '../Profile/Profile';
+import React from "react";
+import Breaks from "../Breaks/Breaks";
+import Details from "../Details/Details";
+import Profile from "../Profile/Profile";
 
 const Cart = () => {
-    return (
-        <div>
-            <Profile></Profile>
-            <Breaks></Breaks>
-        </div>
-    );
+  return (
+    <div>
+      <Profile></Profile>
+      <Breaks></Breaks>
+      <Details></Details>
+      <div className="text-center">
+        <button className="btn btn-primary w-3/4 my-6">Activity Completed</button>
+      </div>
+    </div>
+  );
 };
 
 export default Cart;
