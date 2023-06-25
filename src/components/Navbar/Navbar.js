@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faAddressBook, faCoffee } from "@fortawesome/free-solid-svg-icons";
+import { faAddressBook } from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 
 const Navbar = () => {
