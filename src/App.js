@@ -9,7 +9,7 @@ const style = {
 function App() {
   return (
     <div className='grid grid-cols-4 gap-4'>
-      <div style={style} className='col-span-3'>
+      <div style={style} className='col-span-3 py-24 px-32'>
         <Header></Header>
       </div>
       <div>
