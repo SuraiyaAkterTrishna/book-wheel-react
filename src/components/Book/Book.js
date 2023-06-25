@@ -2,6 +2,9 @@ import React from "react";
 
 const Book = ({ book }) => {
   const { id, image, age, time, name, detail } = book;
+  const handleAddToList = (id) => {
+    console.log('button clicked for', id);
+  }
   return (
     <div className="card card-compact bg-base-100 shadow-xl mx-auto">
       <figure>
@@ -16,7 +19,7 @@ const Book = ({ book }) => {
         <p>For Age: {age}</p>
         <p>Time Required: {time}s</p>
         <div className="card-actions">
-          <button className="btn btn-primary w-full">Add to List</button>
+          <button onClick={() => handleAddToList(id)} className="btn btn-primary w-full">Add to List</button>
         </div>
       </div>
     </div>
