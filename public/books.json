@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "image": "https://i.ibb.co/7vs3Dyy/first.jpg",
+      "image": "https://i.ibb.co/HKfpMnW/first.png",
       "age": "20-25",
       "time": 30,
       "name": "The Universe in the Rearview Mirror",
@@ -9,7 +9,7 @@
     },
     {
       "id": "2",
-      "image": "https://i.ibb.co/j58GS7P/second.jpg",
+      "image": "https://i.ibb.co/YhFTcz3/second.png",
       "age": "20-25",
       "time": 10,
       "name": "Neuromancer",
@@ -17,7 +17,7 @@
     },
     {
       "id": "3",
-      "image": "https://i.ibb.co/tbMg0NP/third.jpg",
+      "image": "https://i.ibb.co/zQy4wR7/third.png",
       "age": "20-25",
       "time": 20,
       "name": "Stranger in a Strange Land",
@@ -25,7 +25,7 @@
     },
     {
       "id": "4",
-      "image": "https://i.ibb.co/dL3h1nK/four.jpg",
+      "image": "https://i.ibb.co/31bpLYx/four.png",
       "age": "20-25",
       "time": 40,
       "name": "The Left Hand of Darkness",
@@ -33,7 +33,7 @@
     },
     {
       "id": "5",
-      "image": "https://i.ibb.co/9qzcB3F/five.jpg",
+      "image": "https://i.ibb.co/6sDzm4H/five.png",
       "age": "20-25",
       "time": 20,
       "name": "The Last Promise",
@@ -41,7 +41,7 @@
     },
     {
       "id": "6",
-      "image": "https://i.ibb.co/569Z7zz/six.jpg",
+      "image": "https://i.ibb.co/v4G8R28/six.png",
       "age": "20-25",
       "time": 50,
       "name": "We Have Always Lived in the Castle ",
@@ -50,6 +50,11 @@
   ]
 
   
+
+
+
+
+
 
 
 
