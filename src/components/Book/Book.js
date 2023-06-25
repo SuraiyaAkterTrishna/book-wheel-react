@@ -11,7 +11,7 @@ const Book = ({ book }) => {
         />
       </figure>
       <div className="card-body col-span-2">
-        <h2 className="card-title">{name}</h2>
+        <h2 className="card-title text-xl">{name}</h2>
         <p>{detail}</p>
         <p>For Age: {age}</p>
         <p>Time Required: {time}s</p>

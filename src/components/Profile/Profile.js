@@ -28,15 +28,15 @@ const Profile = () => {
       {/* stat starts here */}
       <div style={style} className="grid grid-cols-3 gap-2 ms-4 me-6 pe-6 border-0 rounded-xl">
         <div className="stat place-items-center">
-          <div className="stat-value">75<span className="text-xl text-gray-400">kg</span></div>
+          <div className="stat-value"><span className="text-2xl">75</span><span className="text-sm text-gray-400">kg</span></div>
           <div className="stat-desc text-xl">Weight</div>
         </div>
         <div className="stat place-items-center">
-          <div className="stat-value">6.2</div>
+          <div className="stat-value"><span className="text-2xl">6.2</span></div>
           <div className="stat-desc text-xl">Height</div>
         </div>
         <div className="stat place-items-center">
-          <div className="stat-value">25<span className="text-xl text-gray-400">yrs</span></div>
+          <div className="stat-value"><span className="text-2xl">25</span><span className="text-sm text-gray-400">yrs</span></div>
           <div className="stat-desc text-xl">Age</div>
         </div>
       </div>

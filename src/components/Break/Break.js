@@ -4,7 +4,7 @@ const Break = ({time}) => {
     console.log(time);
     return (
         <div className="stat place-items-center">
-           <button className="btn bg-white btn-circle hover:btn-primary">{time}s</button>
+           <button className="btn bg-white btn-circle lowercase hover:btn-primary">{time}s</button>
         </div>
     );
 };

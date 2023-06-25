@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="navbar-start">
-        <h1 className="text-primary uppercase text-3xl font-bold"><FontAwesomeIcon className="pe-2" icon={faAddressBook} /> Book-Wheel</h1>
+        <h1 className="text-primary uppercase text-4xl font-bold"><FontAwesomeIcon className="pe-2" icon={faAddressBook} /> Book-Wheel</h1>
       </div>
       {/*  */}
     </div>
